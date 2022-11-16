@@ -1,0 +1,25 @@
+2022-11-17 01:20:26,775 : INFO : test_Amazon : Sign in procedure start
+2022-11-17 01:20:30,560 : INFO : test_Amazon : Email ID submit successfully
+2022-11-17 01:20:30,856 : INFO : test_Amazon : Password submit successfully
+2022-11-17 01:20:35,867 : INFO : test_Amazon : Account open successfully
+2022-11-17 01:20:37,257 : INFO : test_Amazon : Name matched successfully
+2022-11-17 01:20:40,698 : INFO : test_Amazon : Cart opened to delete previously added items
+2022-11-17 01:20:43,281 : INFO : test_Amazon : All previous items deleted perfectly
+2022-11-17 01:20:43,356 : INFO : test_Amazon : Cart is empty
+2022-11-17 01:20:47,741 : INFO : test_Amazon : Home page opened
+2022-11-17 01:20:53,949 : INFO : test_Amazon : Mobile page opened
+2022-11-17 01:20:58,016 : INFO : test_Amazon : OnePlus option selected
+2022-11-17 01:20:58,040 : INFO : test_Amazon : switched window/page
+2022-11-17 01:21:05,119 : INFO : test_Amazon : OnePlus mobile added to cart
+2022-11-17 01:21:08,735 : INFO : test_Amazon : Close proceed/checkout page
+2022-11-17 01:21:08,795 : INFO : test_Amazon : RE-switched initial window
+2022-11-17 01:21:10,465 : INFO : test_Amazon : Searched iQOO mobile
+2022-11-17 01:21:20,057 : INFO : test_Amazon : switched to new iQOO mobile window
+2022-11-17 01:21:29,332 : INFO : test_Amazon : iQOO mobile added to cart
+2022-11-17 01:21:31,228 : INFO : test_Amazon : closed iQOO mobile window
+2022-11-17 01:21:31,662 : INFO : test_Amazon : closed OnePlus mobile window
+2022-11-17 01:21:31,670 : INFO : test_Amazon : RE-switched initial window
+2022-11-17 01:21:35,643 : INFO : test_Amazon : Cart open to check added items
+2022-11-17 01:21:35,867 : INFO : test_Amazon : iQOO mobile successfully added in cart
+2022-11-17 01:21:35,915 : INFO : test_Amazon : OnePlus mobile successfully added in cart
+2022-11-17 01:21:35,915 : INFO : test_Amazon : iQOO and OnePlus mobile successfully added in cart
