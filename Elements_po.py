@@ -27,7 +27,7 @@ def clickSignIn(driver):
 
 
 def clickEmail(driver):
-    driver.find_element(By.ID, "ap_email").send_keys("9415167270")
+    driver.find_element(By.ID, "ap_email").send_keys("0000000000")
 
 
 def clickSignInSubmit(driver):
@@ -35,7 +35,7 @@ def clickSignInSubmit(driver):
 
 
 def clickPassword(driver):
-    driver.find_element(By.ID, "ap_password").send_keys("Password#1211#")
+    driver.find_element(By.ID, "ap_password").send_keys("00000000000")
 
 
 def clickPasswordSubmit(driver):
